@@ -1,5 +1,5 @@
 # Juego de Combate por Turnos
-Diseño y Desarrollo de un Juego de Combate por turnos
+Diseño y Desarrollo de un Juego de Combate por turnos en Java
 
 Trabajo realizado por <b>Sergio Esteban Tarrero</b> y <b>Ernesto Cubo Pozo</b>
 
