@@ -1,0 +1,19 @@
+Oso --> Desierto:
+    --> Mercadona:
+    --> Luna:
+
+Vikingo --> Desierto:
+        --> Mercadona:
+        --> Luna:
+
+Terraplanista --> Desierto:
+              --> Mercadona:
+              --> Luna:
+
+Twittero --> Desierto:
+         --> Mercadona:
+         --> Luna:
+
+Homeopata --> Desierto:
+          --> Mercadona:
+          --> Luna:
